@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Ortega y Gasset: O homem e suas circustâncias"
+title:  "Ortega y Gasset: O homem e suas circunstâncias"
 date:   2018-12-28
 categories: filosofia
 ---
-Nada melhor como uma citação de Ortega y Gasset pra inaugurar esse blog.
 
 > A vida, que é, antes de tudo, o que podemos ser, vida possível, é também, e por isso mesmo, decidir entre as possibilidades o que em efeito vamos ser.
 > 
