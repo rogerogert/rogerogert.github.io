@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Dicas: Clash Royale"
+title:  "Dicas: Clash Royale (Parte 1)"
 date:   2019-01-01
 categories: clash-royale
 published: true
 ---
+
+`Aguarde a página carregar os gifs. Pode demorar um pouco.`
+{: style="text-align: center"}
+
 Criei esse post com o objetivo de criar uma guia rápido para algumas dicas de estratégia de Clash Royale.
 
 As primeiras dicas foram tiradas do excelente vídeo [Top 50 Tips & Tricks in Clash Royale](https://www.youtube.com/watch?v=lVRlJCd4Zeo).

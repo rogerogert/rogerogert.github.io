@@ -2,7 +2,7 @@
 layout: post
 title:  "Ortega y Gasset: O homem e suas circunstâncias"
 date:   2018-12-28
-categories: filosofia
+categories: filosofia literatura
 ---
 
 > A vida, que é, antes de tudo, o que podemos ser, vida possível, é também, e por isso mesmo, decidir entre as possibilidades o que em efeito vamos ser.
