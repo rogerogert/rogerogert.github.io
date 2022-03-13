@@ -22,10 +22,10 @@ nav_exclude: # The following paths are excluded from navbar
 ### Author Info ###
 author:
   name: Rogério Teixeira
-  image: https://imgur.com/tQwhaTH
+  image: https://i.imgur.com/tQwhaTH.jpeg
   # behance: your_username
   # dribbble          : your_username
-  email: username@domain.com
+  email: rogerioteixeira91@gmail.com
   facebook: rogerioteixeira91
   github: rogerogert
   # gitlab            : your_username
@@ -49,10 +49,10 @@ permalink: /blog/:title
 ### Collections ###
 collections:
   projects:
-    output: true
+    output: false
     permalink: /projects/:name
   elements: # For Documentation Only
-    output: true # For Documentation Only
+    output: false # For Documentation Only
 
 ### Disqus ###
 disqus:
