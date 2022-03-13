@@ -87,4 +87,6 @@ exclude:
   - README.md
   - CONTRIBUTING.md
   - LICENSE
+  - about.md
+  - projects.html
   - "*.log"
